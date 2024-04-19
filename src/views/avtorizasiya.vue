@@ -40,17 +40,49 @@
         <h1 class="text-center text-3xl font-bold m-5" >Баруйхатгирии аҳоли 2024</h1>
         <h2 class="text-center text-xl font-semibold m-5">Кабинети шахсии истифодабаранда</h2>
      </div>
-     <form id="registrationForm" class="max-w-md mx-auto bg-white px-8 pt-6 pb-8 mb-4 m-5">
+     <!-- <form  class="max-w-md mx-auto bg-white px-8 pt-6 pb-8 mb-4 m-5"> -->
+        <form @submit.prevent="submit" action="" class="max-w-md mx-auto bg-white px-8 pt-6 pb-8 mb-4 m-5">
         <div class="mb-4">
-            <input type="text" id="input1" name="input1" placeholder="Рақами телефон:" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline rounded-2xl">
-            <span id="input1Error" class="text-red-500 hidden">Лутфан ин майдонро пур кунед.</span>
+            <input type="text" id="input1" name="input1" v-model="authorization.login" placeholder="Рақами телефон:" class="shadow appearance-none border-rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline rounded-2xl ">
         </div>
         <div class="mb-4">
-            <input type="text" id="input2" name="input2" placeholder="Рамз:" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline rounded-2xl">
-            <span id="input2Error" class="text-red-500 hidden">Лутфан ин майдонро пур кунед.</span>
+            <input type="password" id="input2" name="input2" v-model="authorization.password" placeholder="Рамз:" class="shadow appearance-none border-rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline rounded-2xl">
+            <p v-if="passwordError" class="text-red-500 mt-5 flex justify-center">Рақами телефон  ё рамз хато ворид карда шуд</p>
         </div>
         <div class="mb-4 flex justify-center">
-            <a href="#"><button type="submit" class="bg-blue-500 text-white hover:bg-blue-700 hover:text-white font-bold py-2 px-4 rounded-2xl">Фиристодан</button></a>
+            <button  @click="authorizationUser()" class="bg-blue-500 text-white hover:bg-blue-700 hover:text-white font-bold py-2 px-4  focus:outline-none focus:shadow-outline rounded-2xl">Фиристодан</button>
+            <!-- <button type="submit" class="bg-blue-500 text-white hover:bg-blue-700 hover:text-white font-bold py-2 px-4 rounded-2xl">Фиристодан</button> -->
         </div>
     </form>
+    <!-- </form> -->
 </template>
+<script>
+import axios from 'axios';
+
+export default {
+  data() {
+    return {
+      authorization: {
+        login: '',
+        password: null,
+      },
+      loginError: null,
+      passwordError: null
+    };
+  },
+  methods: {
+    async authorizationUser() {
+      try {
+        const response = await axios.post('http://192.168.137.112:8095/Base/Authorization', this.authorization);
+        console.log(response, 'efwef');
+        this.$router.push('/anket');
+      } catch (error) {
+        console.error(error);
+        if (error.response.status === 401) {
+          this.passwordError = 'Неверный пароль';
+        }
+      }
+    }
+  }
+};
+</script>

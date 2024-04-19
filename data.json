@@ -1,0 +1,3081 @@
+{
+    "candidatesQualifications": [
+        {
+            "id": 1,
+            "name": "номзади илм"
+        },
+        {
+            "id": 2,
+            "name": "доктори илм"
+        },
+        {
+            "id": 3,
+            "name": "доктори PhD"
+        },
+        {
+            "id": 4,
+            "name": "надорад"
+        }
+    ],
+    "country": [
+        {
+            "id": 1,
+            "name": "Согдийская область",
+            "name2": "Сугд",
+            "name3": "Согд"
+        },
+        {
+            "id": 2,
+            "name": "Хатлонская область",
+            "name2": "Хатлон",
+            "name3": "Хатлон"
+        },
+        {
+            "id": 3,
+            "name": "ГБАО",
+            "name2": "ВМКБ",
+            "name3": "ГБАО"
+        },
+        {
+            "id": 4,
+            "name": "Душанбе",
+            "name2": "Душанбе",
+            "name3": "Душанбе"
+        },
+        {
+            "id": 5,
+            "name": "РРП",
+            "name2": "Нохияхои тобеи марказ",
+            "name3": "РРП"
+        },
+        {
+            "id": 6,
+            "name": "Раштская долина",
+            "name2": "водии Рашт",
+            "name3": "Рашт"
+        }
+    ],
+    "educationalLevel": [
+        {
+            "id": 1,
+            "name": "ибтидоӣ"
+        },
+        {
+            "id": 2,
+            "name": "умумии асосӣ"
+        },
+        {
+            "id": 3,
+            "name": "миёнаи умумӣ"
+        },
+        {
+            "id": 4,
+            "name": "ибтидои касбӣ"
+        },
+        {
+            "id": 5,
+            "name": "миёнаи касбӣ"
+        },
+        {
+            "id": 6,
+            "name": "бакалавр"
+        },
+        {
+            "id": 7,
+            "name": "мутахассис"
+        },
+        {
+            "id": 8,
+            "name": "магистр"
+        },
+        {
+            "id": 9,
+            "name": "таҳсилоти ибтидоӣ надорам"
+        }
+    ],
+    "educationInstitutions": [
+        {
+            "id": 1,
+            "name": "муассисаи таҳсилоти умумӣ"
+        },
+        {
+            "id": 2,
+            "name": "муассисаи таҳсилоти ибтидои касбӣ"
+        },
+        {
+            "id": 3,
+            "name": "маркази таҳсилоти калонсолон"
+        },
+        {
+            "id": 4,
+            "name": "муассисаи таҳсилоти миёнаи касбӣ"
+        },
+        {
+            "id": 5,
+            "name": "муассисаи таҳсилоти олии касбӣ"
+        },
+        {
+            "id": 6,
+            "name": "баъд аз муассисаи олии касбӣ"
+        },
+        {
+            "id": 7,
+            "name": "таҳсил намекунам"
+        }
+    ],
+    "factorsForNotJobHunting": [
+        {
+            "id": 1,
+            "name": "кора пайдо кардам ва дар 2 ҳафтаи наздик ба он шурӯъ менамоям"
+        },
+        {
+            "id": 2,
+            "name": "кор пайдо кардам ва ҷавобашро интизорам"
+        },
+        {
+            "id": 3,
+            "name": "саршавии мавсимро интизорам"
+        },
+        {
+            "id": 4,
+            "name": "имконияти кор пайдо кардан нест"
+        },
+        {
+            "id": 5,
+            "name": "ба корҳои хоҷагии хонавода машғулам"
+        },
+        {
+            "id": 6,
+            "name": "аз рӯи вазъи саломатӣ"
+        },
+        {
+            "id": 7,
+            "name": "маъюби гурӯҳи 1"
+        },
+        {
+            "id": 8,
+            "name": "маъюби гурӯҳи 2"
+        },
+        {
+            "id": 9,
+            "name": "маъюби гурӯҳи 3"
+        },
+        {
+            "id": 10,
+            "name": "маъюбӣ аз кӯдакӣ"
+        },
+        {
+            "id": 11,
+            "name": "ба нафақа баромадам"
+        },
+        {
+            "id": 12,
+            "name": "дигар сабаб"
+        }
+    ],
+    "familyMember": [
+        {
+            "id": 1,
+            "name": "шахсе, ки аввал навишта шудааст"
+        },
+        {
+            "id": 2,
+            "name": "зан, шавҳар"
+        },
+        {
+            "id": 3,
+            "name": "духтар, писар"
+        },
+        {
+            "id": 4,
+            "name": "модар, падар"
+        },
+        {
+            "id": 5,
+            "name": "хоҳар, бародар"
+        },
+        {
+            "id": 6,
+            "name": "хусур, хушдоман, модарарӯс, падарарӯс"
+        },
+        {
+            "id": 7,
+            "name": "келин, домод"
+        },
+        {
+            "id": 8,
+            "name": "бибӣ, бобо"
+        },
+        {
+            "id": 9,
+            "name": "набера, абера"
+        },
+        {
+            "id": 10,
+            "name": "дигар дараҷаи хешигарӣ"
+        },
+        {
+            "id": 11,
+            "name": "хеш не"
+        }
+    ],
+    "familyStatus": [
+        {
+            "id": 1,
+            "name": "ҳеҷ вақт дар ақди никоҳ набудам"
+        },
+        {
+            "id": 2,
+            "name": "дар ақди никоҳи ба қайд гирифташуда дар САҲШ мебошам"
+        },
+        {
+            "id": 3,
+            "name": "дар ақди никоҳи беқайд қарор дорам"
+        },
+        {
+            "id": 4,
+            "name": "марди занмурда(бевамард), бевазан"
+        },
+        {
+            "id": 5,
+            "name": "талоқшуда(расман)....."
+        },
+        {
+            "id": 6,
+            "name": "ҷудошуда"
+        }
+    ],
+    "financialSources": [
+        {
+            "id": 1,
+            "name": "машғулият - кироякор -худмашғул  -хоҷагии шахсони ёрирасон"
+        },
+        {
+            "id": 2,
+            "name": "истеҳсоли маҳсулот барои иҷтеъмоли худӣ"
+        },
+        {
+            "id": 3,
+            "name": "стипендия(идрорпулӣ)"
+        },
+        {
+            "id": 4,
+            "name": "нафақа(ғайр аз нафақаи маъюбӣ)"
+        },
+        {
+            "id": 5,
+            "name": "нафақа аз рӯи маъюбӣ"
+        },
+        {
+            "id": 6,
+            "name": "ёрдампулӣ(ғайр аз ёрдампулии бекорӣ)"
+        },
+        {
+            "id": 7,
+            "name": "ёрдампулӣ аз рӯи бекорӣ"
+        },
+        {
+            "id": 8,
+            "name": "ёрдам аз ҳисоби кӯмаки хешовандон ва дигар шахсон(ғайр аз аъзои хонавода)"
+        },
+        {
+            "id": 9,
+            "name": "дигар намуди таъминоти давлатӣ"
+        },
+        {
+            "id": 10,
+            "name": "пасандозҳо, ҳаққи саҳм, фоизҳо"
+        },
+        {
+            "id": 11,
+            "name": "даромад аз моликият: а) манқул    б) ғайриманқул"
+        },
+        {
+            "id": 12,
+            "name": "даромад аз аъзои оила, ки дар дигар давлатҳо кор мекунанд"
+        },
+        {
+            "id": 13,
+            "name": "дар сарпарастӣ"
+        },
+        {
+            "id": 14,
+            "name": "дигар манбаъ"
+        }
+    ],
+    "formerProfessions": [
+        {
+            "id": 1,
+            "name": "кироякор"
+        },
+        {
+            "id": 2,
+            "name": "корфармо"
+        },
+        {
+            "id": 3,
+            "name": "машғулияти инфиродӣ"
+        },
+        {
+            "id": 4,
+            "name": "аъзои кооперативи истеҳсолӣ"
+        },
+        {
+            "id": 5,
+            "name": "хоҷагии ёрирасони шахсӣ ва наздиҳавлӣ"
+        },
+        {
+            "id": 6,
+            "name": "корманди бемузди корхонаи оилавӣ"
+        },
+        {
+            "id": 7,
+            "name": "дигар"
+        }
+    ],
+    "gender": [
+        {
+            "id": 1,
+            "name": "мард"
+        },
+        {
+            "id": 2,
+            "name": "зан"
+        }
+    ],
+    "languageSkills": [
+        {
+            "id": 1,
+            "name": "тоҷикӣ"
+        },
+        {
+            "id": 2,
+            "name": "ӯзбекӣ"
+        },
+        {
+            "id": 3,
+            "name": "русӣ"
+        },
+        {
+            "id": 4,
+            "name": "қирғизӣ"
+        },
+        {
+            "id": 5,
+            "name": "дигар"
+        },
+        {
+            "id": 6,
+            "name": "Английский"
+        }
+    ],
+    "mainProfessionPreviousWeek": [
+        {
+            "id": 1,
+            "name": "роҳбар"
+        },
+        {
+            "id": 2,
+            "name": "мутахассиси дорои таҳсилоти олии касбӣ"
+        },
+        {
+            "id": 3,
+            "name": "мутахассиси сатҳи миёнаи касбӣ"
+        },
+        {
+            "id": 4,
+            "name": "корманди идоравӣ"
+        },
+        {
+            "id": 5,
+            "name": "корманди соҳаи хизматрасонӣ"
+        },
+        {
+            "id": 6,
+            "name": "корманди касбӣ дар соҳаи кишоварзӣ, хоҷагии ҷангал, шикор, моҳигирӣ ва моҳидорӣ"
+        },
+        {
+            "id": 7,
+            "name": "коргари касбӣ дар саноат, сохтмон, нақлиёт, коммуникатсия, геология ва ба ҳамин ихтисосҳо наздик"
+        },
+        {
+            "id": 8,
+            "name": "оператори дастгоҳҳо ва мошинаҳои истеҳсолӣ, челонгарон-васлгарон"
+        },
+        {
+            "id": 9,
+            "name": "корманди бе ихтисос дар ҳамаи соҳаҳо"
+        },
+        {
+            "id": 10,
+            "name": "корманди ҳарбӣ"
+        }
+    ],
+    "nationality": [
+        {
+            "id": 1,
+            "name": "тоҷик"
+        },
+        {
+            "id": 2,
+            "name": "ӯзбек"
+        },
+        {
+            "id": 3,
+            "name": "рус"
+        },
+        {
+            "id": 4,
+            "name": "қирғиз"
+        },
+        {
+            "id": 5,
+            "name": "дигар"
+        },
+        {
+            "id": 6,
+            "name": "Немец"
+        }
+    ],
+    "nativeLanguage": [
+        {
+            "id": 1,
+            "name": "тоҷикӣ"
+        },
+        {
+            "id": 2,
+            "name": "ӯзбекӣ"
+        },
+        {
+            "id": 3,
+            "name": "русӣ"
+        },
+        {
+            "id": 4,
+            "name": "қирғизӣ"
+        },
+        {
+            "id": 5,
+            "name": "дигар"
+        },
+        {
+            "id": 6,
+            "name": "Немецкий"
+        }
+    ],
+    "placeOfBirth": [
+        {
+            "id": 1,
+            "name": "Дар ҳамин минтақа"
+        },
+        {
+            "id": 2,
+            "name": "шаҳр"
+        },
+        {
+            "id": 3,
+            "name": "ноҳия"
+        }
+    ],
+    "positionInProfession": [
+        {
+            "id": 1,
+            "name": "кишоварзӣ, хоҷагии ҷангал ва моҳипарварӣ"
+        },
+        {
+            "id": 2,
+            "name": "истихроҷи канданиҳои фоиданок"
+        },
+        {
+            "id": 3,
+            "name": "саноати коркард"
+        },
+        {
+            "id": 4,
+            "name": "таъминоти нерӯи барқ, газ, буғ ва ҳавои кондитсионӣ"
+        },
+        {
+            "id": 5,
+            "name": "обтаъминкунӣ, тозакунӣ, коркарди партовҳо ва ҳосил намудани ашёи хоми дуюмдараҷа"
+        },
+        {
+            "id": 6,
+            "name": "сохтмон(аз ҷумла таъмири хона)"
+        },
+        {
+            "id": 7,
+            "name": "савдои яклухт ва чакана; таъмири воситаҳои нақлиёт"
+        },
+        {
+            "id": 8,
+            "name": "фаъолияти нақлиёт ва нигоҳдории бор"
+        },
+        {
+            "id": 9,
+            "name": "меҳмонхонаҳо ва тарабхонаҳо"
+        },
+        {
+            "id": 10,
+            "name": "иттилоот ва алоқа"
+        },
+        {
+            "id": 11,
+            "name": "миёнаравии молиявӣ ва суғурта"
+        },
+        {
+            "id": 12,
+            "name": "амалиётҳо бо молу мулки ғайриманқул"
+        },
+        {
+            "id": 13,
+            "name": "фаъолияти касбӣ, илмӣ ва техникӣ"
+        },
+        {
+            "id": 14,
+            "name": "фаъолияти маъмурӣ ва ёридиҳанда"
+        },
+        {
+            "id": 15,
+            "name": "идораи давлаты ва мудофиа; таъминоти суғуртаи ҳатмии иҷтимоӣ"
+        },
+        {
+            "id": 16,
+            "name": "маориф"
+        },
+        {
+            "id": 17,
+            "name": "тандурустӣ ва хизматрасонии иҷтимоии аҳолӣ"
+        },
+        {
+            "id": 18,
+            "name": "санъат, вақтхушкунӣ ва истироҳат"
+        },
+        {
+            "id": 19,
+            "name": "дигар фаъолиятҳои хизматрасонӣ"
+        },
+        {
+            "id": 20,
+            "name": "фаъолияти хонаводаҳои шахсӣ"
+        },
+        {
+            "id": 21,
+            "name": "фаъолияти ташкилотҳои байналхалқӣ"
+        }
+    ],
+    "region": [
+        {
+            "id": 1,
+            "countryId": 0,
+            "name": "ш. Хоруғ",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 2,
+            "countryId": 0,
+            "name": "н. Ванҷ",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 3,
+            "countryId": 0,
+            "name": "н.Дарвоз",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 4,
+            "countryId": 0,
+            "name": "н.Ишкошим",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 5,
+            "countryId": 0,
+            "name": "н. Мурғоб",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 6,
+            "countryId": 0,
+            "name": "н. Рошқалъа",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 7,
+            "countryId": 0,
+            "name": "н.Рушон",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 8,
+            "countryId": 0,
+            "name": "н. Шуғнон",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 9,
+            "countryId": 0,
+            "name": "н. Файзобод",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 10,
+            "countryId": 0,
+            "name": "н.Варзоб",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 11,
+            "countryId": 0,
+            "name": "ш. Роғун",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 12,
+            "countryId": 0,
+            "name": "н. Рӯдакӣ",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 13,
+            "countryId": 0,
+            "name": "н.Вахдат",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 14,
+            "countryId": 0,
+            "name": "н. Ҳисор",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 15,
+            "countryId": 0,
+            "name": "н. Шаҳринав",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 16,
+            "countryId": 0,
+            "name": "н.Турсунзода",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 17,
+            "countryId": 0,
+            "name": "н. Лахш",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 18,
+            "countryId": 0,
+            "name": "н.Нуробод",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 19,
+            "countryId": 0,
+            "name": "н.Рашт",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 20,
+            "countryId": 0,
+            "name": "н. Сангвор",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 21,
+            "countryId": 0,
+            "name": "н. Тоҷикобод",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 22,
+            "countryId": 0,
+            "name": "ш. Қӯрғонтеппа",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 23,
+            "countryId": 0,
+            "name": "н. Данғара",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 24,
+            "countryId": 0,
+            "name": "н. Муъминобод",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 25,
+            "countryId": 0,
+            "name": "н.Ховалинг",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 26,
+            "countryId": 0,
+            "name": "н. Балҷувон",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 27,
+            "countryId": 0,
+            "name": "н. Шамсиддин Шоҳин",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 28,
+            "countryId": 0,
+            "name": "н.Темурмалик",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 29,
+            "countryId": 0,
+            "name": "н.Норак",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 30,
+            "countryId": 0,
+            "name": "н.Бохтар",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 31,
+            "countryId": 0,
+            "name": "н.Вахш",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 32,
+            "countryId": 0,
+            "name": "н.Восеъ",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 33,
+            "countryId": 0,
+            "name": "н.Ёвон",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 34,
+            "countryId": 0,
+            "name": "н. Қубодиён",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 35,
+            "countryId": 0,
+            "name": "н.Ҷалолиддини Балхӣ",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 36,
+            "countryId": 0,
+            "name": "н. Кӯлоб",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 37,
+            "countryId": 0,
+            "name": "н.Кумсангир",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 38,
+            "countryId": 0,
+            "name": "н. Абдураҳмони Ҷомӣ",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 39,
+            "countryId": 0,
+            "name": "н.Носири Хусрав",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 40,
+            "countryId": 0,
+            "name": "н. Панҷ",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 41,
+            "countryId": 0,
+            "name": "н.Сарбанд",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 42,
+            "countryId": 0,
+            "name": "н.Фархор",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 43,
+            "countryId": 0,
+            "name": "н. Ҳамадонӣ",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 44,
+            "countryId": 0,
+            "name": "н.Хуросон",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 45,
+            "countryId": 0,
+            "name": "н. Дӯстӣ",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 46,
+            "countryId": 0,
+            "name": "н. Шаҳритус",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 47,
+            "countryId": 0,
+            "name": "ш.Хучанд",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 48,
+            "countryId": 0,
+            "name": "н. Шаҳристон",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 49,
+            "countryId": 0,
+            "name": "н. Айнӣ",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 50,
+            "countryId": 0,
+            "name": "н. Табошар",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 51,
+            "countryId": 0,
+            "name": "н.  Кӯҳистони Мастчоҳ",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 52,
+            "countryId": 0,
+            "name": "н.Исфара",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 53,
+            "countryId": 0,
+            "name": "н.Истаравшан",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 54,
+            "countryId": 0,
+            "name": "н. Панҷакент",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 55,
+            "countryId": 0,
+            "name": "н.Ашт",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 56,
+            "countryId": 0,
+            "name": "н. Бобоҷон Гафуров",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 57,
+            "countryId": 0,
+            "name": "н. Деваштич",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 58,
+            "countryId": 0,
+            "name": "н.Зафаробод",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 59,
+            "countryId": 0,
+            "name": "ш. Бӯстон",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 60,
+            "countryId": 0,
+            "name": "н.Конибодом",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 61,
+            "countryId": 0,
+            "name": "н. Мастчоҳ",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 62,
+            "countryId": 0,
+            "name": "н.Спитамен",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 63,
+            "countryId": 0,
+            "name": "н. Ҷаббор Расулов",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 64,
+            "countryId": 0,
+            "name": "ш. Гулистон",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 65,
+            "countryId": 0,
+            "name": "н.Сино",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 66,
+            "countryId": 0,
+            "name": "н.Сомони",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 67,
+            "countryId": 0,
+            "name": "н.Фирдавси",
+            "name2": null,
+            "indexNumber": null
+        },
+        {
+            "id": 68,
+            "countryId": 0,
+            "name": "н.Шохмансур",
+            "name2": null,
+            "indexNumber": null
+        }
+    ],
+    "religions": [
+        {
+            "id": 1,
+            "name": "ислом"
+        },
+        {
+            "id": 2,
+            "name": "насронӣ"
+        },
+        {
+            "id": 3,
+            "name": "нестам"
+        },
+        {
+            "id": 4,
+            "name": "рад кардани ҷавоб"
+        },
+        {
+            "id": 5,
+            "name": "дигар"
+        },
+        {
+            "id": 7,
+            "name": ""
+        }
+    ],
+    "state": [
+        {
+            "id": 1,
+            "code": "ABH",
+            "code1": "AB",
+            "name": "Абхазия",
+            "name2": "Abkhazia",
+            "fullName": "Республика Абхазия"
+        },
+        {
+            "id": 2,
+            "code": "ABW",
+            "code1": "AW",
+            "name": "Аруба",
+            "name2": "Aruba",
+            "fullName": ""
+        },
+        {
+            "id": 3,
+            "code": "AFG",
+            "code1": "AF",
+            "name": "Афганистан",
+            "name2": "Afghanistan",
+            "fullName": "Исламское Государство Афганистан"
+        },
+        {
+            "id": 4,
+            "code": "AGO",
+            "code1": "AO",
+            "name": "Ангола",
+            "name2": "Angola",
+            "fullName": "Республика Ангола"
+        },
+        {
+            "id": 5,
+            "code": "AIA",
+            "code1": "AI",
+            "name": "Ангилья",
+            "name2": "Anguilla",
+            "fullName": ""
+        },
+        {
+            "id": 6,
+            "code": "ALA",
+            "code1": "AX",
+            "name": "Эландские острова",
+            "name2": "Aland Islands",
+            "fullName": ""
+        },
+        {
+            "id": 7,
+            "code": "ALB",
+            "code1": "AL",
+            "name": "Албания",
+            "name2": "Albania",
+            "fullName": "Республика Албания"
+        },
+        {
+            "id": 8,
+            "code": "AND",
+            "code1": "AD",
+            "name": "Андорра",
+            "name2": "Andorra",
+            "fullName": "Княжество Андорра"
+        },
+        {
+            "id": 9,
+            "code": "ARE",
+            "code1": "AE",
+            "name": "Объединенные Арабские Эмираты",
+            "name2": "United Arab Emirates",
+            "fullName": ""
+        },
+        {
+            "id": 10,
+            "code": "ARG",
+            "code1": "AR",
+            "name": "Аргентина",
+            "name2": "Argentina",
+            "fullName": "Аргентинская Республика"
+        },
+        {
+            "id": 11,
+            "code": "ARM",
+            "code1": "AM",
+            "name": "Армения",
+            "name2": "Armenia",
+            "fullName": "Республика Армения"
+        },
+        {
+            "id": 12,
+            "code": "ASM",
+            "code1": "AS",
+            "name": "Американское Самоа",
+            "name2": "American Samoa",
+            "fullName": ""
+        },
+        {
+            "id": 13,
+            "code": "ATA",
+            "code1": "AQ",
+            "name": "Антарктида",
+            "name2": "Antarctica",
+            "fullName": ""
+        },
+        {
+            "id": 14,
+            "code": "ATF",
+            "code1": "TF",
+            "name": "Французские Южные территории",
+            "name2": "French Southern Territories",
+            "fullName": ""
+        },
+        {
+            "id": 15,
+            "code": "ATG",
+            "code1": "AG",
+            "name": "Антигуа и Барбуда",
+            "name2": "Antigua and Barbuda",
+            "fullName": ""
+        },
+        {
+            "id": 16,
+            "code": "AUS",
+            "code1": "AU",
+            "name": "Австралия",
+            "name2": "Australia",
+            "fullName": ""
+        },
+        {
+            "id": 17,
+            "code": "AUT",
+            "code1": "AT",
+            "name": "Австрия",
+            "name2": "Austria",
+            "fullName": "Австрийская Республика"
+        },
+        {
+            "id": 18,
+            "code": "AZE",
+            "code1": "AZ",
+            "name": "Азербайджан",
+            "name2": "Azerbaijan",
+            "fullName": "Республика Азербайджан"
+        },
+        {
+            "id": 19,
+            "code": "BDI",
+            "code1": "BI",
+            "name": "Бурунди",
+            "name2": "Burundi",
+            "fullName": "Республика Бурунди"
+        },
+        {
+            "id": 20,
+            "code": "BEL",
+            "code1": "BE",
+            "name": "Бельгия",
+            "name2": "Belgium",
+            "fullName": "Королевство Бельгии"
+        },
+        {
+            "id": 21,
+            "code": "BEN",
+            "code1": "BJ",
+            "name": "Бенин",
+            "name2": "Benin",
+            "fullName": "Республика Бенин"
+        },
+        {
+            "id": 22,
+            "code": "BES",
+            "code1": "BQ",
+            "name": "Бонайре, Саба и Синт-Эстатиус",
+            "name2": "Bonaire, Sint Eustatius and Saba",
+            "fullName": ""
+        },
+        {
+            "id": 23,
+            "code": "BFA",
+            "code1": "BF",
+            "name": "Буркина-Фасо",
+            "name2": "Burkina Faso",
+            "fullName": ""
+        },
+        {
+            "id": 24,
+            "code": "BGD",
+            "code1": "BD",
+            "name": "Бангладеш",
+            "name2": "Bangladesh",
+            "fullName": "Народная Республика Бангладеш"
+        },
+        {
+            "id": 25,
+            "code": "BGR",
+            "code1": "BG",
+            "name": "Болгария",
+            "name2": "Bulgaria",
+            "fullName": "Республика Болгария"
+        },
+        {
+            "id": 26,
+            "code": "BHR",
+            "code1": "BH",
+            "name": "Бахрейн",
+            "name2": "Bahrain",
+            "fullName": "Королевство Бахрейн"
+        },
+        {
+            "id": 27,
+            "code": "BHS",
+            "code1": "BS",
+            "name": "Багамы",
+            "name2": "Bahamas",
+            "fullName": "Содружество Багамы"
+        },
+        {
+            "id": 28,
+            "code": "BIH",
+            "code1": "BA",
+            "name": "Босния и Герцеговина",
+            "name2": "Bosnia and Herzegovina",
+            "fullName": ""
+        },
+        {
+            "id": 29,
+            "code": "BLM",
+            "code1": "BL",
+            "name": "Сен-Бартельми",
+            "name2": "Saint Barthelemy",
+            "fullName": ""
+        },
+        {
+            "id": 30,
+            "code": "BLR",
+            "code1": "BY",
+            "name": "Беларусь",
+            "name2": "Belarus",
+            "fullName": "Республика Беларусь"
+        },
+        {
+            "id": 31,
+            "code": "BLZ",
+            "code1": "BZ",
+            "name": "Белиз",
+            "name2": "Belize",
+            "fullName": ""
+        },
+        {
+            "id": 32,
+            "code": "BMU",
+            "code1": "BM",
+            "name": "Бермуды",
+            "name2": "Bermuda",
+            "fullName": ""
+        },
+        {
+            "id": 33,
+            "code": "BOL",
+            "code1": "BO",
+            "name": "Боливия, Многонациональное Государство",
+            "name2": "Bolivia, plurinational state of",
+            "fullName": "Многонациональное Государство Боливия"
+        },
+        {
+            "id": 34,
+            "code": "BRA",
+            "code1": "BR",
+            "name": "Бразилия",
+            "name2": "Brazil",
+            "fullName": "Федеративная Республика Бразилия"
+        },
+        {
+            "id": 35,
+            "code": "BRB",
+            "code1": "BB",
+            "name": "Барбадос",
+            "name2": "Barbados",
+            "fullName": ""
+        },
+        {
+            "id": 36,
+            "code": "BRN",
+            "code1": "BN",
+            "name": "Бруней-Даруссалам",
+            "name2": "Brunei Darussalam",
+            "fullName": ""
+        },
+        {
+            "id": 37,
+            "code": "BTN",
+            "code1": "BT",
+            "name": "Бутан",
+            "name2": "Bhutan",
+            "fullName": "Королевство Бутан"
+        },
+        {
+            "id": 38,
+            "code": "BVT",
+            "code1": "BV",
+            "name": "Остров Буве",
+            "name2": "Bouvet Island",
+            "fullName": ""
+        },
+        {
+            "id": 39,
+            "code": "BWA",
+            "code1": "BW",
+            "name": "Ботсвана",
+            "name2": "Botswana",
+            "fullName": "Республика Ботсвана"
+        },
+        {
+            "id": 40,
+            "code": "CAF",
+            "code1": "CF",
+            "name": "Центрально-Африканская Республика",
+            "name2": "Central African Republic",
+            "fullName": ""
+        },
+        {
+            "id": 41,
+            "code": "CAN",
+            "code1": "CA",
+            "name": "Канада",
+            "name2": "Canada",
+            "fullName": ""
+        },
+        {
+            "id": 42,
+            "code": "CCK",
+            "code1": "CC",
+            "name": "Кокосовые (Килинг) острова",
+            "name2": "Cocos (Keeling) Islands",
+            "fullName": ""
+        },
+        {
+            "id": 43,
+            "code": "CHE",
+            "code1": "CH",
+            "name": "Швейцария",
+            "name2": "Switzerland",
+            "fullName": "Швейцарская Конфедерация"
+        },
+        {
+            "id": 44,
+            "code": "CHL",
+            "code1": "CL",
+            "name": "Чили",
+            "name2": "Chile",
+            "fullName": "Республика Чили"
+        },
+        {
+            "id": 45,
+            "code": "CHN",
+            "code1": "CN",
+            "name": "Китай",
+            "name2": "China",
+            "fullName": "Китайская Народная Республика"
+        },
+        {
+            "id": 46,
+            "code": "CIV",
+            "code1": "CI",
+            "name": "Кот д'Ивуар",
+            "name2": "Cote d'Ivoire",
+            "fullName": "Республика Кот д'Ивуар"
+        },
+        {
+            "id": 47,
+            "code": "CMR",
+            "code1": "CM",
+            "name": "Камерун",
+            "name2": "Cameroon",
+            "fullName": "Республика Камерун"
+        },
+        {
+            "id": 48,
+            "code": "COD",
+            "code1": "CD",
+            "name": "Конго, Демократическая Республика",
+            "name2": "Congo, Democratic Republic of the",
+            "fullName": "Демократическая Республика Конго"
+        },
+        {
+            "id": 49,
+            "code": "COG",
+            "code1": "CG",
+            "name": "Конго",
+            "name2": "Congo",
+            "fullName": "Республика Конго"
+        },
+        {
+            "id": 50,
+            "code": "COK",
+            "code1": "CK",
+            "name": "Острова Кука",
+            "name2": "Cook Islands",
+            "fullName": ""
+        },
+        {
+            "id": 51,
+            "code": "COL",
+            "code1": "CO",
+            "name": "Колумбия",
+            "name2": "Colombia",
+            "fullName": "Республика Колумбия"
+        },
+        {
+            "id": 52,
+            "code": "COM",
+            "code1": "KM",
+            "name": "Коморы",
+            "name2": "Comoros",
+            "fullName": "Союз Коморы"
+        },
+        {
+            "id": 53,
+            "code": "CPV",
+            "code1": "CV",
+            "name": "Кабо-Верде",
+            "name2": "Cape Verde",
+            "fullName": "Республика Кабо-Верде"
+        },
+        {
+            "id": 54,
+            "code": "CRI",
+            "code1": "CR",
+            "name": "Коста-Рика",
+            "name2": "Costa Rica",
+            "fullName": "Республика Коста-Рика"
+        },
+        {
+            "id": 55,
+            "code": "CUB",
+            "code1": "CU",
+            "name": "Куба",
+            "name2": "Cuba",
+            "fullName": "Республика Куба"
+        },
+        {
+            "id": 56,
+            "code": "CUW",
+            "code1": "CW",
+            "name": "Кюрасао",
+            "name2": "Curacao",
+            "fullName": ""
+        },
+        {
+            "id": 57,
+            "code": "CXR",
+            "code1": "CX",
+            "name": "Остров Рождества",
+            "name2": "Christmas Island",
+            "fullName": ""
+        },
+        {
+            "id": 58,
+            "code": "CYM",
+            "code1": "KY",
+            "name": "Острова Кайман",
+            "name2": "Cayman Islands",
+            "fullName": ""
+        },
+        {
+            "id": 59,
+            "code": "CYP",
+            "code1": "CY",
+            "name": "Кипр",
+            "name2": "Cyprus",
+            "fullName": "Республика Кипр"
+        },
+        {
+            "id": 60,
+            "code": "CZE",
+            "code1": "CZ",
+            "name": "Чешская Республика",
+            "name2": "Czech Republic",
+            "fullName": ""
+        },
+        {
+            "id": 61,
+            "code": "DEU",
+            "code1": "DE",
+            "name": "Германия",
+            "name2": "Germany",
+            "fullName": "Федеративная Республика Германия"
+        },
+        {
+            "id": 62,
+            "code": "DJI",
+            "code1": "DJ",
+            "name": "Джибути",
+            "name2": "Djibouti",
+            "fullName": "Республика Джибути"
+        },
+        {
+            "id": 63,
+            "code": "DMA",
+            "code1": "DM",
+            "name": "Доминика",
+            "name2": "Dominica",
+            "fullName": "Содружество Доминики"
+        },
+        {
+            "id": 64,
+            "code": "DNK",
+            "code1": "DK",
+            "name": "Дания",
+            "name2": "Denmark",
+            "fullName": "Королевство Дания"
+        },
+        {
+            "id": 65,
+            "code": "DOM",
+            "code1": "DO",
+            "name": "Доминиканская Республика",
+            "name2": "Dominican Republic",
+            "fullName": ""
+        },
+        {
+            "id": 66,
+            "code": "DZA",
+            "code1": "DZ",
+            "name": "Алжир",
+            "name2": "Algeria",
+            "fullName": "Алжирская Народная Демократическая Республика"
+        },
+        {
+            "id": 67,
+            "code": "ECU",
+            "code1": "EC",
+            "name": "Эквадор",
+            "name2": "Ecuador",
+            "fullName": "Республика Эквадор"
+        },
+        {
+            "id": 68,
+            "code": "EGY",
+            "code1": "EG",
+            "name": "Египет",
+            "name2": "Egypt",
+            "fullName": "Арабская Республика Египет"
+        },
+        {
+            "id": 69,
+            "code": "ERI",
+            "code1": "ER",
+            "name": "Эритрея",
+            "name2": "Eritrea",
+            "fullName": ""
+        },
+        {
+            "id": 70,
+            "code": "ESH",
+            "code1": "EH",
+            "name": "Западная Сахара",
+            "name2": "Western Sahara",
+            "fullName": ""
+        },
+        {
+            "id": 71,
+            "code": "ESP",
+            "code1": "ES",
+            "name": "Испания",
+            "name2": "Spain",
+            "fullName": "Королевство Испания"
+        },
+        {
+            "id": 72,
+            "code": "EST",
+            "code1": "EE",
+            "name": "Эстония",
+            "name2": "Estonia",
+            "fullName": "Эстонская Республика"
+        },
+        {
+            "id": 73,
+            "code": "ETH",
+            "code1": "ET",
+            "name": "Эфиопия",
+            "name2": "Ethiopia",
+            "fullName": "Федеративная Демократическая Республика Эфиопия"
+        },
+        {
+            "id": 74,
+            "code": "FIN",
+            "code1": "FI",
+            "name": "Финляндия",
+            "name2": "Finland",
+            "fullName": "Финляндская Республика"
+        },
+        {
+            "id": 75,
+            "code": "FJI",
+            "code1": "FJ",
+            "name": "Фиджи",
+            "name2": "Fiji",
+            "fullName": "Республика островов Фиджи"
+        },
+        {
+            "id": 76,
+            "code": "FLK",
+            "code1": "FK",
+            "name": "Фолклендские острова (Мальвинские)",
+            "name2": "Falkland Islands (Malvinas)",
+            "fullName": ""
+        },
+        {
+            "id": 77,
+            "code": "FRA",
+            "code1": "FR",
+            "name": "Франция",
+            "name2": "France",
+            "fullName": "Французская Республика"
+        },
+        {
+            "id": 78,
+            "code": "FRO",
+            "code1": "FO",
+            "name": "Фарерские острова",
+            "name2": "Faroe Islands",
+            "fullName": ""
+        },
+        {
+            "id": 79,
+            "code": "FSM",
+            "code1": "FM",
+            "name": "Микронезия, Федеративные Штаты",
+            "name2": "Micronesia, Federated States of",
+            "fullName": "Федеративные штаты Микронезии"
+        },
+        {
+            "id": 80,
+            "code": "GAB",
+            "code1": "GA",
+            "name": "Габон",
+            "name2": "Gabon",
+            "fullName": "Габонская Республика"
+        },
+        {
+            "id": 81,
+            "code": "GBR",
+            "code1": "GB",
+            "name": "Соединенное Королевство",
+            "name2": "United Kingdom",
+            "fullName": "Соединенное Королевство Великобритании и Северной Ирландии"
+        },
+        {
+            "id": 82,
+            "code": "GEO",
+            "code1": "GE",
+            "name": "Грузия",
+            "name2": "Georgia",
+            "fullName": ""
+        },
+        {
+            "id": 83,
+            "code": "GGY",
+            "code1": "GG",
+            "name": "Гернси",
+            "name2": "Guernsey",
+            "fullName": ""
+        },
+        {
+            "id": 84,
+            "code": "GHA",
+            "code1": "GH",
+            "name": "Гана",
+            "name2": "Ghana",
+            "fullName": "Республика Гана"
+        },
+        {
+            "id": 85,
+            "code": "GIB",
+            "code1": "GI",
+            "name": "Гибралтар",
+            "name2": "Gibraltar",
+            "fullName": ""
+        },
+        {
+            "id": 86,
+            "code": "GIN",
+            "code1": "GN",
+            "name": "Гвинея",
+            "name2": "Guinea",
+            "fullName": "Гвинейская Республика"
+        },
+        {
+            "id": 87,
+            "code": "GLP",
+            "code1": "GP",
+            "name": "Гваделупа",
+            "name2": "Guadeloupe",
+            "fullName": ""
+        },
+        {
+            "id": 88,
+            "code": "GMB",
+            "code1": "GM",
+            "name": "Гамбия",
+            "name2": "Gambia",
+            "fullName": "Республика Гамбия"
+        },
+        {
+            "id": 89,
+            "code": "GNB",
+            "code1": "GW",
+            "name": "Гвинея-Бисау",
+            "name2": "Guinea-Bissau",
+            "fullName": "Республика Гвинея-Бисау"
+        },
+        {
+            "id": 90,
+            "code": "GNQ",
+            "code1": "GQ",
+            "name": "Экваториальная Гвинея",
+            "name2": "Equatorial Guinea",
+            "fullName": "Республика Экваториальная Гвинея"
+        },
+        {
+            "id": 91,
+            "code": "GRC",
+            "code1": "GR",
+            "name": "Греция",
+            "name2": "Greece",
+            "fullName": "Греческая Республика"
+        },
+        {
+            "id": 92,
+            "code": "GRD",
+            "code1": "GD",
+            "name": "Гренада",
+            "name2": "Grenada",
+            "fullName": ""
+        },
+        {
+            "id": 93,
+            "code": "GRL",
+            "code1": "GL",
+            "name": "Гренландия",
+            "name2": "Greenland",
+            "fullName": ""
+        },
+        {
+            "id": 94,
+            "code": "GTM",
+            "code1": "GT",
+            "name": "Гватемала",
+            "name2": "Guatemala",
+            "fullName": "Республика Гватемала"
+        },
+        {
+            "id": 95,
+            "code": "GUF",
+            "code1": "GF",
+            "name": "Французская Гвиана",
+            "name2": "French Guiana",
+            "fullName": ""
+        },
+        {
+            "id": 96,
+            "code": "GUM",
+            "code1": "GU",
+            "name": "Гуам",
+            "name2": "Guam",
+            "fullName": ""
+        },
+        {
+            "id": 97,
+            "code": "GUY",
+            "code1": "GY",
+            "name": "Гайана",
+            "name2": "Guyana",
+            "fullName": "Республика Гайана"
+        },
+        {
+            "id": 98,
+            "code": "HKG",
+            "code1": "HK",
+            "name": "Гонконг",
+            "name2": "Hong Kong",
+            "fullName": "Специальный  административный  регион Китая Гонконг"
+        },
+        {
+            "id": 99,
+            "code": "HMD",
+            "code1": "HM",
+            "name": "Остров Херд и острова Макдональд",
+            "name2": "Heard Island and McDonald Islands",
+            "fullName": ""
+        },
+        {
+            "id": 100,
+            "code": "HND",
+            "code1": "HN",
+            "name": "Гондурас",
+            "name2": "Honduras",
+            "fullName": "Республика Гондурас"
+        },
+        {
+            "id": 101,
+            "code": "HRV",
+            "code1": "HR",
+            "name": "Хорватия",
+            "name2": "Croatia",
+            "fullName": "Республика Хорватия"
+        },
+        {
+            "id": 102,
+            "code": "HTI",
+            "code1": "HT",
+            "name": "Гаити",
+            "name2": "Haiti",
+            "fullName": "Республика Гаити"
+        },
+        {
+            "id": 103,
+            "code": "HUN",
+            "code1": "HU",
+            "name": "Венгрия",
+            "name2": "Hungary",
+            "fullName": "Венгерская Республика"
+        },
+        {
+            "id": 104,
+            "code": "IDN",
+            "code1": "ID",
+            "name": "Индонезия",
+            "name2": "Indonesia",
+            "fullName": "Республика Индонезия"
+        },
+        {
+            "id": 105,
+            "code": "IMN",
+            "code1": "IM",
+            "name": "Остров Мэн",
+            "name2": "Isle of Man",
+            "fullName": ""
+        },
+        {
+            "id": 106,
+            "code": "IND",
+            "code1": "IN",
+            "name": "Индия",
+            "name2": "India",
+            "fullName": "Республика Индия"
+        },
+        {
+            "id": 107,
+            "code": "IOT",
+            "code1": "IO",
+            "name": "Британская территория в Индийском океане",
+            "name2": "British Indian Ocean Territory",
+            "fullName": ""
+        },
+        {
+            "id": 108,
+            "code": "IRL",
+            "code1": "IE",
+            "name": "Ирландия",
+            "name2": "Ireland",
+            "fullName": ""
+        },
+        {
+            "id": 109,
+            "code": "IRN",
+            "code1": "IR",
+            "name": "Иран",
+            "name2": "Iran, Islamic Republic of",
+            "fullName": "Исламская Республика Иран"
+        },
+        {
+            "id": 110,
+            "code": "IRQ",
+            "code1": "IQ",
+            "name": "Ирак",
+            "name2": "Iraq",
+            "fullName": "Республика Ирак"
+        },
+        {
+            "id": 111,
+            "code": "ISL",
+            "code1": "IS",
+            "name": "Исландия",
+            "name2": "Iceland",
+            "fullName": "Республика Исландия"
+        },
+        {
+            "id": 112,
+            "code": "ISR",
+            "code1": "IL",
+            "name": "Израиль",
+            "name2": "Israel",
+            "fullName": "Государство Израиль"
+        },
+        {
+            "id": 113,
+            "code": "ITA",
+            "code1": "IT",
+            "name": "Италия",
+            "name2": "Italy",
+            "fullName": "Итальянская Республика"
+        },
+        {
+            "id": 114,
+            "code": "JAM",
+            "code1": "JM",
+            "name": "Ямайка",
+            "name2": "Jamaica",
+            "fullName": ""
+        },
+        {
+            "id": 115,
+            "code": "JEY",
+            "code1": "JE",
+            "name": "Джерси",
+            "name2": "Jersey",
+            "fullName": ""
+        },
+        {
+            "id": 116,
+            "code": "JOR",
+            "code1": "JO",
+            "name": "Иордания",
+            "name2": "Jordan",
+            "fullName": "Иорданское Хашимитское Королевство"
+        },
+        {
+            "id": 117,
+            "code": "JPN",
+            "code1": "JP",
+            "name": "Япония",
+            "name2": "Japan",
+            "fullName": ""
+        },
+        {
+            "id": 118,
+            "code": "KAZ",
+            "code1": "KZ",
+            "name": "Казахстан",
+            "name2": "Kazakhstan",
+            "fullName": "Республика Казахстан"
+        },
+        {
+            "id": 119,
+            "code": "KEN",
+            "code1": "KE",
+            "name": "Кения",
+            "name2": "Kenya",
+            "fullName": "Республика Кения"
+        },
+        {
+            "id": 120,
+            "code": "KGZ",
+            "code1": "KG",
+            "name": "Киргизстан",
+            "name2": "Kyrgyzstan",
+            "fullName": "Киргизская Республика"
+        },
+        {
+            "id": 121,
+            "code": "KHM",
+            "code1": "KH",
+            "name": "Камбоджа",
+            "name2": "Cambodia",
+            "fullName": "Королевство Камбоджа"
+        },
+        {
+            "id": 122,
+            "code": "KIR",
+            "code1": "KI",
+            "name": "Кирибати",
+            "name2": "Kiribati",
+            "fullName": "Республика Кирибати"
+        },
+        {
+            "id": 123,
+            "code": "KNA",
+            "code1": "KN",
+            "name": "Сент-Китс и Невис",
+            "name2": "Saint Kitts and Nevis",
+            "fullName": ""
+        },
+        {
+            "id": 124,
+            "code": "KOR",
+            "code1": "KR",
+            "name": "Корея, Республика",
+            "name2": "Korea, Republic of",
+            "fullName": "Республика Корея"
+        },
+        {
+            "id": 125,
+            "code": "KWT",
+            "code1": "KW",
+            "name": "Кувейт",
+            "name2": "Kuwait",
+            "fullName": "Государство Кувейт"
+        },
+        {
+            "id": 126,
+            "code": "LAO",
+            "code1": "LA",
+            "name": "Лаос",
+            "name2": "Lao People's Democratic Republic",
+            "fullName": "Лаосская Народно-Демократическая Республика"
+        },
+        {
+            "id": 127,
+            "code": "LBN",
+            "code1": "LB",
+            "name": "Ливан",
+            "name2": "Lebanon",
+            "fullName": "Ливанская Республика"
+        },
+        {
+            "id": 128,
+            "code": "LBR",
+            "code1": "LR",
+            "name": "Либерия",
+            "name2": "Liberia",
+            "fullName": "Республика Либерия"
+        },
+        {
+            "id": 129,
+            "code": "LBY",
+            "code1": "LY",
+            "name": "Ливийская Арабская Джамахирия",
+            "name2": "Libyan Arab Jamahiriya",
+            "fullName": "Социалистическая Народная Ливийская Арабская Джамахирия"
+        },
+        {
+            "id": 130,
+            "code": "LCA",
+            "code1": "LC",
+            "name": "Сент-Люсия",
+            "name2": "Saint Lucia",
+            "fullName": ""
+        },
+        {
+            "id": 131,
+            "code": "LIE",
+            "code1": "LI",
+            "name": "Лихтенштейн",
+            "name2": "Liechtenstein",
+            "fullName": "Княжество Лихтенштейн"
+        },
+        {
+            "id": 132,
+            "code": "LKA",
+            "code1": "LK",
+            "name": "Шри-Ланка",
+            "name2": "Sri Lanka",
+            "fullName": "Демократическая Социалистическая Республика Шри-Ланка"
+        },
+        {
+            "id": 133,
+            "code": "LSO",
+            "code1": "LS",
+            "name": "Лесото",
+            "name2": "Lesotho",
+            "fullName": "Королевство Лесото"
+        },
+        {
+            "id": 134,
+            "code": "LTU",
+            "code1": "LT",
+            "name": "Литва",
+            "name2": "Lithuania",
+            "fullName": "Литовская Республика"
+        },
+        {
+            "id": 135,
+            "code": "LUX",
+            "code1": "LU",
+            "name": "Люксембург",
+            "name2": "Luxembourg",
+            "fullName": "Великое Герцогство Люксембург"
+        },
+        {
+            "id": 136,
+            "code": "LVA",
+            "code1": "LV",
+            "name": "Латвия",
+            "name2": "Latvia",
+            "fullName": "Латвийская Республика"
+        },
+        {
+            "id": 137,
+            "code": "MAC",
+            "code1": "MO",
+            "name": "Макао",
+            "name2": "Macao",
+            "fullName": "Специальный административный регион Китая Макао"
+        },
+        {
+            "id": 138,
+            "code": "MAF",
+            "code1": "MF",
+            "name": "Сен-Мартен",
+            "name2": "Saint Martin (French Part)",
+            "fullName": ""
+        },
+        {
+            "id": 139,
+            "code": "MAR",
+            "code1": "MA",
+            "name": "Марокко",
+            "name2": "Morocco",
+            "fullName": "Королевство Марокко"
+        },
+        {
+            "id": 140,
+            "code": "MCO",
+            "code1": "MC",
+            "name": "Монако",
+            "name2": "Monaco",
+            "fullName": "Княжество Монако"
+        },
+        {
+            "id": 141,
+            "code": "MDA",
+            "code1": "MD",
+            "name": "Молдова, Республика",
+            "name2": "Moldova",
+            "fullName": "Республика Молдова"
+        },
+        {
+            "id": 142,
+            "code": "MDG",
+            "code1": "MG",
+            "name": "Мадагаскар",
+            "name2": "Madagascar",
+            "fullName": "Республика Мадагаскар"
+        },
+        {
+            "id": 143,
+            "code": "MDV",
+            "code1": "MV",
+            "name": "Мальдивы",
+            "name2": "Maldives",
+            "fullName": "Мальдивская Республика"
+        },
+        {
+            "id": 144,
+            "code": "MEX",
+            "code1": "MX",
+            "name": "Мексика",
+            "name2": "Mexico",
+            "fullName": "Мексиканские Соединенные Штаты"
+        },
+        {
+            "id": 145,
+            "code": "MHL",
+            "code1": "MH",
+            "name": "Маршалловы острова",
+            "name2": "Marshall Islands",
+            "fullName": "Республика Маршалловы острова"
+        },
+        {
+            "id": 146,
+            "code": "MKD",
+            "code1": "MK",
+            "name": "Республика Македония",
+            "name2": "Macedonia, The Former Yugoslab Republic Of",
+            "fullName": ""
+        },
+        {
+            "id": 147,
+            "code": "MLI",
+            "code1": "ML",
+            "name": "Мали",
+            "name2": "Mali",
+            "fullName": "Республика Мали"
+        },
+        {
+            "id": 148,
+            "code": "MLT",
+            "code1": "MT",
+            "name": "Мальта",
+            "name2": "Malta",
+            "fullName": "Республика Мальта"
+        },
+        {
+            "id": 149,
+            "code": "MMR",
+            "code1": "MM",
+            "name": "Мьянма",
+            "name2": "Myanmar",
+            "fullName": "Союз Мьянма"
+        },
+        {
+            "id": 150,
+            "code": "MNE",
+            "code1": "ME",
+            "name": "Черногория",
+            "name2": "Montenegro",
+            "fullName": "Республика Черногория"
+        },
+        {
+            "id": 151,
+            "code": "MNG",
+            "code1": "MN",
+            "name": "Монголия",
+            "name2": "Mongolia",
+            "fullName": ""
+        },
+        {
+            "id": 152,
+            "code": "MNP",
+            "code1": "MP",
+            "name": "Северные Марианские острова",
+            "name2": "Northern Mariana Islands",
+            "fullName": "Содружество Северных Марианских островов"
+        },
+        {
+            "id": 153,
+            "code": "MOZ",
+            "code1": "MZ",
+            "name": "Мозамбик",
+            "name2": "Mozambique",
+            "fullName": "Республика Мозамбик"
+        },
+        {
+            "id": 154,
+            "code": "MRT",
+            "code1": "MR",
+            "name": "Мавритания",
+            "name2": "Mauritania",
+            "fullName": "Исламская Республика Мавритания"
+        },
+        {
+            "id": 155,
+            "code": "MSR",
+            "code1": "MS",
+            "name": "Монтсеррат",
+            "name2": "Montserrat",
+            "fullName": ""
+        },
+        {
+            "id": 156,
+            "code": "MTQ",
+            "code1": "MQ",
+            "name": "Мартиника",
+            "name2": "Martinique",
+            "fullName": ""
+        },
+        {
+            "id": 157,
+            "code": "MUS",
+            "code1": "MU",
+            "name": "Маврикий",
+            "name2": "Mauritius",
+            "fullName": "Республика Маврикий"
+        },
+        {
+            "id": 158,
+            "code": "MWI",
+            "code1": "MW",
+            "name": "Малави",
+            "name2": "Malawi",
+            "fullName": "Республика Малави"
+        },
+        {
+            "id": 159,
+            "code": "MYS",
+            "code1": "MY",
+            "name": "Малайзия",
+            "name2": "Malaysia",
+            "fullName": ""
+        },
+        {
+            "id": 160,
+            "code": "MYT",
+            "code1": "YT",
+            "name": "Майотта",
+            "name2": "Mayotte",
+            "fullName": ""
+        },
+        {
+            "id": 161,
+            "code": "NAM",
+            "code1": "NA",
+            "name": "Намибия",
+            "name2": "Namibia",
+            "fullName": "Республика Намибия"
+        },
+        {
+            "id": 162,
+            "code": "NCL",
+            "code1": "NC",
+            "name": "Новая Каледония",
+            "name2": "New Caledonia",
+            "fullName": ""
+        },
+        {
+            "id": 163,
+            "code": "NER",
+            "code1": "NE",
+            "name": "Нигер",
+            "name2": "Niger",
+            "fullName": "Республика Нигер"
+        },
+        {
+            "id": 164,
+            "code": "NFK",
+            "code1": "NF",
+            "name": "Остров Норфолк",
+            "name2": "Norfolk Island",
+            "fullName": ""
+        },
+        {
+            "id": 165,
+            "code": "NGA",
+            "code1": "NG",
+            "name": "Нигерия",
+            "name2": "Nigeria",
+            "fullName": "Федеративная Республика Нигерия"
+        },
+        {
+            "id": 166,
+            "code": "NIC",
+            "code1": "NI",
+            "name": "Никарагуа",
+            "name2": "Nicaragua",
+            "fullName": "Республика Никарагуа"
+        },
+        {
+            "id": 167,
+            "code": "NIU",
+            "code1": "NU",
+            "name": "Ниуэ",
+            "name2": "Niue",
+            "fullName": "Республика Ниуэ"
+        },
+        {
+            "id": 168,
+            "code": "NLD",
+            "code1": "NL",
+            "name": "Нидерланды",
+            "name2": "Netherlands",
+            "fullName": "Королевство Нидерландов"
+        },
+        {
+            "id": 169,
+            "code": "NOR",
+            "code1": "NO",
+            "name": "Норвегия",
+            "name2": "Norway",
+            "fullName": "Королевство Норвегия"
+        },
+        {
+            "id": 170,
+            "code": "NPL",
+            "code1": "NP",
+            "name": "Непал",
+            "name2": "Nepal",
+            "fullName": "Федеративная Демократическая Республика Непал"
+        },
+        {
+            "id": 171,
+            "code": "NRU",
+            "code1": "NR",
+            "name": "Науру",
+            "name2": "Nauru",
+            "fullName": "Республика Науру"
+        },
+        {
+            "id": 172,
+            "code": "NZL",
+            "code1": "NZ",
+            "name": "Новая Зеландия",
+            "name2": "New Zealand",
+            "fullName": ""
+        },
+        {
+            "id": 173,
+            "code": "OMN",
+            "code1": "OM",
+            "name": "Оман",
+            "name2": "Oman",
+            "fullName": "Султанат Оман"
+        },
+        {
+            "id": 174,
+            "code": "OST",
+            "code1": "OS",
+            "name": "Южная Осетия",
+            "name2": "South Ossetia",
+            "fullName": "Республика Южная Осетия"
+        },
+        {
+            "id": 175,
+            "code": "PAK",
+            "code1": "PK",
+            "name": "Пакистан",
+            "name2": "Pakistan",
+            "fullName": "Исламская Республика Пакистан"
+        },
+        {
+            "id": 176,
+            "code": "PAN",
+            "code1": "PA",
+            "name": "Панама",
+            "name2": "Panama",
+            "fullName": "Республика Панама"
+        },
+        {
+            "id": 177,
+            "code": "PCN",
+            "code1": "PN",
+            "name": "Питкерн",
+            "name2": "Pitcairn",
+            "fullName": ""
+        },
+        {
+            "id": 178,
+            "code": "PER",
+            "code1": "PE",
+            "name": "Перу",
+            "name2": "Peru",
+            "fullName": "Республика Перу"
+        },
+        {
+            "id": 179,
+            "code": "PHL",
+            "code1": "PH",
+            "name": "Филиппины",
+            "name2": "Philippines",
+            "fullName": "Республика Филиппины"
+        },
+        {
+            "id": 180,
+            "code": "PLW",
+            "code1": "PW",
+            "name": "Палау",
+            "name2": "Palau",
+            "fullName": "Республика Палау"
+        },
+        {
+            "id": 181,
+            "code": "PNG",
+            "code1": "PG",
+            "name": "Папуа-Новая Гвинея",
+            "name2": "Papua New Guinea",
+            "fullName": ""
+        },
+        {
+            "id": 182,
+            "code": "POL",
+            "code1": "PL",
+            "name": "Польша",
+            "name2": "Poland",
+            "fullName": "Республика Польша"
+        },
+        {
+            "id": 183,
+            "code": "PRI",
+            "code1": "PR",
+            "name": "Пуэрто-Рико",
+            "name2": "Puerto Rico",
+            "fullName": ""
+        },
+        {
+            "id": 184,
+            "code": "PRK",
+            "code1": "KP",
+            "name": "Корея, Народно-Демократическая Республика",
+            "name2": "Korea, Democratic People's republic of",
+            "fullName": "Корейская Народно-Демократическая Республика"
+        },
+        {
+            "id": 185,
+            "code": "PRT",
+            "code1": "PT",
+            "name": "Португалия",
+            "name2": "Portugal",
+            "fullName": "Португальская Республика"
+        },
+        {
+            "id": 186,
+            "code": "PRY",
+            "code1": "PY",
+            "name": "Парагвай",
+            "name2": "Paraguay",
+            "fullName": "Республика Парагвай"
+        },
+        {
+            "id": 187,
+            "code": "PSE",
+            "code1": "PS",
+            "name": "Палестинская территория, оккупированная",
+            "name2": "Palestinian Territory, Occupied",
+            "fullName": "Оккупированная Палестинская территория"
+        },
+        {
+            "id": 188,
+            "code": "PYF",
+            "code1": "PF",
+            "name": "Французская Полинезия",
+            "name2": "French Polynesia",
+            "fullName": ""
+        },
+        {
+            "id": 189,
+            "code": "QAT",
+            "code1": "QA",
+            "name": "Катар",
+            "name2": "Qatar",
+            "fullName": "Государство Катар"
+        },
+        {
+            "id": 190,
+            "code": "REU",
+            "code1": "RE",
+            "name": "Реюньон",
+            "name2": "Reunion",
+            "fullName": ""
+        },
+        {
+            "id": 191,
+            "code": "ROU",
+            "code1": "RO",
+            "name": "Румыния",
+            "name2": "Romania",
+            "fullName": ""
+        },
+        {
+            "id": 192,
+            "code": "RUS",
+            "code1": "RU",
+            "name": "Россия",
+            "name2": "Russian Federation",
+            "fullName": "Российская Федерация"
+        },
+        {
+            "id": 193,
+            "code": "RWA",
+            "code1": "RW",
+            "name": "Руанда",
+            "name2": "Rwanda",
+            "fullName": "Руандийская Республика"
+        },
+        {
+            "id": 194,
+            "code": "SAU",
+            "code1": "SA",
+            "name": "Саудовская Аравия",
+            "name2": "Saudi Arabia",
+            "fullName": "Королевство Саудовская Аравия"
+        },
+        {
+            "id": 195,
+            "code": "SDN",
+            "code1": "SD",
+            "name": "Судан",
+            "name2": "Sudan",
+            "fullName": "Республика Судан"
+        },
+        {
+            "id": 196,
+            "code": "SEN",
+            "code1": "SN",
+            "name": "Сенегал",
+            "name2": "Senegal",
+            "fullName": "Республика Сенегал"
+        },
+        {
+            "id": 197,
+            "code": "SGP",
+            "code1": "SG",
+            "name": "Сингапур",
+            "name2": "Singapore",
+            "fullName": "Республика Сингапур"
+        },
+        {
+            "id": 198,
+            "code": "SGS",
+            "code1": "GS",
+            "name": "Южная Джорджия и Южные Сандвичевы острова",
+            "name2": "South Georgia and the South Sandwich Islands",
+            "fullName": ""
+        },
+        {
+            "id": 199,
+            "code": "SHN",
+            "code1": "SH",
+            "name": "Святая Елена, Остров вознесения, Тристан-да-Кунья",
+            "name2": "Saint Helena, Ascension And Tristan Da Cunha",
+            "fullName": ""
+        },
+        {
+            "id": 200,
+            "code": "SJM",
+            "code1": "SJ",
+            "name": "Шпицберген и Ян Майен",
+            "name2": "Svalbard and Jan Mayen",
+            "fullName": ""
+        },
+        {
+            "id": 201,
+            "code": "SLB",
+            "code1": "SB",
+            "name": "Соломоновы острова",
+            "name2": "Solomon Islands",
+            "fullName": ""
+        },
+        {
+            "id": 202,
+            "code": "SLE",
+            "code1": "SL",
+            "name": "Сьерра-Леоне",
+            "name2": "Sierra Leone",
+            "fullName": "Республика Сьерра-Леоне"
+        },
+        {
+            "id": 203,
+            "code": "SLV",
+            "code1": "SV",
+            "name": "Эль-Сальвадор",
+            "name2": "El Salvador",
+            "fullName": "Республика Эль-Сальвадор"
+        },
+        {
+            "id": 204,
+            "code": "SMR",
+            "code1": "SM",
+            "name": "Сан-Марино",
+            "name2": "San Marino",
+            "fullName": "Республика Сан-Марино"
+        },
+        {
+            "id": 205,
+            "code": "SOM",
+            "code1": "SO",
+            "name": "Сомали",
+            "name2": "Somalia",
+            "fullName": "Сомалийская Республика"
+        },
+        {
+            "id": 206,
+            "code": "SPM",
+            "code1": "PM",
+            "name": "Сент-Пьер и Микелон",
+            "name2": "Saint Pierre and Miquelon",
+            "fullName": ""
+        },
+        {
+            "id": 207,
+            "code": "SRB",
+            "code1": "RS",
+            "name": "Сербия",
+            "name2": "Serbia",
+            "fullName": "Республика Сербия"
+        },
+        {
+            "id": 208,
+            "code": "SSD",
+            "code1": "SS",
+            "name": "Южный Судан",
+            "name2": "South Sudan",
+            "fullName": ""
+        },
+        {
+            "id": 209,
+            "code": "STP",
+            "code1": "ST",
+            "name": "Сан-Томе и Принсипи",
+            "name2": "Sao Tome and Principe",
+            "fullName": "Демократическая Республика Сан-Томе и Принсипи"
+        },
+        {
+            "id": 210,
+            "code": "SUR",
+            "code1": "SR",
+            "name": "Суринам",
+            "name2": "Suriname",
+            "fullName": "Республика Суринам"
+        },
+        {
+            "id": 211,
+            "code": "SVK",
+            "code1": "SK",
+            "name": "Словакия",
+            "name2": "Slovakia",
+            "fullName": "Словацкая Республика"
+        },
+        {
+            "id": 212,
+            "code": "SVN",
+            "code1": "SI",
+            "name": "Словения",
+            "name2": "Slovenia",
+            "fullName": "Республика Словения"
+        },
+        {
+            "id": 213,
+            "code": "SWE",
+            "code1": "SE",
+            "name": "Швеция",
+            "name2": "Sweden",
+            "fullName": "Королевство Швеция"
+        },
+        {
+            "id": 214,
+            "code": "SWZ",
+            "code1": "SZ",
+            "name": "Свазиленд",
+            "name2": "Swaziland",
+            "fullName": "Королевство Свазиленд"
+        },
+        {
+            "id": 215,
+            "code": "SXM",
+            "code1": "SX",
+            "name": "Синт-Мартен",
+            "name2": "Sint Maarten",
+            "fullName": ""
+        },
+        {
+            "id": 216,
+            "code": "SYC",
+            "code1": "SC",
+            "name": "Сейшелы",
+            "name2": "Seychelles",
+            "fullName": "Республика Сейшелы"
+        },
+        {
+            "id": 217,
+            "code": "SYR",
+            "code1": "SY",
+            "name": "Сирийская Арабская Республика",
+            "name2": "Syrian Arab Republic",
+            "fullName": ""
+        },
+        {
+            "id": 218,
+            "code": "TCA",
+            "code1": "TC",
+            "name": "Острова Теркс и Кайкос",
+            "name2": "Turks and Caicos Islands",
+            "fullName": ""
+        },
+        {
+            "id": 219,
+            "code": "TCD",
+            "code1": "TD",
+            "name": "Чад",
+            "name2": "Chad",
+            "fullName": "Республика Чад"
+        },
+        {
+            "id": 220,
+            "code": "TGO",
+            "code1": "TG",
+            "name": "Того",
+            "name2": "Togo",
+            "fullName": "Тоголезская Республика"
+        },
+        {
+            "id": 221,
+            "code": "THA",
+            "code1": "TH",
+            "name": "Таиланд",
+            "name2": "Thailand",
+            "fullName": "Королевство Таиланд"
+        },
+        {
+            "id": 222,
+            "code": "TJK",
+            "code1": "TJ",
+            "name": "Таджикистан",
+            "name2": "Tajikistan",
+            "fullName": "Республика Таджикистан"
+        },
+        {
+            "id": 223,
+            "code": "TKL",
+            "code1": "TK",
+            "name": "Токелау",
+            "name2": "Tokelau",
+            "fullName": ""
+        },
+        {
+            "id": 224,
+            "code": "TKM",
+            "code1": "TM",
+            "name": "Туркменистан",
+            "name2": "Turkmenistan",
+            "fullName": "Туркменистан"
+        },
+        {
+            "id": 225,
+            "code": "TLS",
+            "code1": "TL",
+            "name": "Тимор-Лесте",
+            "name2": "Timor-Leste",
+            "fullName": "Демократическая Республика Тимор-Лесте"
+        },
+        {
+            "id": 226,
+            "code": "TON",
+            "code1": "TO",
+            "name": "Тонга",
+            "name2": "Tonga",
+            "fullName": "Королевство Тонга"
+        },
+        {
+            "id": 227,
+            "code": "TTO",
+            "code1": "TT",
+            "name": "Тринидад и Тобаго",
+            "name2": "Trinidad and Tobago",
+            "fullName": "Республика Тринидад и Тобаго"
+        },
+        {
+            "id": 228,
+            "code": "TUN",
+            "code1": "TN",
+            "name": "Тунис",
+            "name2": "Tunisia",
+            "fullName": "Тунисская Республика"
+        },
+        {
+            "id": 229,
+            "code": "TUR",
+            "code1": "TR",
+            "name": "Турция",
+            "name2": "Turkey",
+            "fullName": "Турецкая Республика"
+        },
+        {
+            "id": 230,
+            "code": "TUV",
+            "code1": "TV",
+            "name": "Тувалу",
+            "name2": "Tuvalu",
+            "fullName": ""
+        },
+        {
+            "id": 231,
+            "code": "TWN",
+            "code1": "TW",
+            "name": "Тайвань (Китай)",
+            "name2": "Taiwan, Province of China",
+            "fullName": ""
+        },
+        {
+            "id": 232,
+            "code": "TZA",
+            "code1": "TZ",
+            "name": "Танзания, Объединенная Республика",
+            "name2": "Tanzania, United Republic Of",
+            "fullName": "Объединенная Республика Танзания"
+        },
+        {
+            "id": 233,
+            "code": "UGA",
+            "code1": "UG",
+            "name": "Уганда",
+            "name2": "Uganda",
+            "fullName": "Республика Уганда"
+        },
+        {
+            "id": 234,
+            "code": "UKR",
+            "code1": "UA",
+            "name": "Украина",
+            "name2": "Ukraine",
+            "fullName": null
+        },
+        {
+            "id": 235,
+            "code": "UMI",
+            "code1": "UM",
+            "name": "Малые Тихоокеанские отдаленные острова Соединенных Штатов",
+            "name2": "United States Minor Outlying Islands",
+            "fullName": ""
+        },
+        {
+            "id": 236,
+            "code": "URY",
+            "code1": "UY",
+            "name": "Уругвай",
+            "name2": "Uruguay",
+            "fullName": "Восточная Республика Уругвай"
+        },
+        {
+            "id": 237,
+            "code": "USA",
+            "code1": "US",
+            "name": "Соединенные Штаты",
+            "name2": "United States",
+            "fullName": "Соединенные Штаты Америки"
+        },
+        {
+            "id": 238,
+            "code": "UZB",
+            "code1": "UZ",
+            "name": "Узбекистан",
+            "name2": "Uzbekistan",
+            "fullName": "Республика Узбекистан"
+        },
+        {
+            "id": 239,
+            "code": "VAT",
+            "code1": "VA",
+            "name": "Папский Престол (Государство — город Ватикан)",
+            "name2": "Holy See (Vatican City State)",
+            "fullName": ""
+        },
+        {
+            "id": 240,
+            "code": "VCT",
+            "code1": "VC",
+            "name": "Сент-Винсент и Гренадины",
+            "name2": "Saint Vincent and the Grenadines",
+            "fullName": ""
+        },
+        {
+            "id": 241,
+            "code": "VEN",
+            "code1": "VE",
+            "name": "Венесуэла Боливарианская Республика",
+            "name2": "Venezuela",
+            "fullName": "Боливарийская Республика Венесуэла"
+        },
+        {
+            "id": 242,
+            "code": "VGB",
+            "code1": "VG",
+            "name": "Виргинские острова, Британские",
+            "name2": "Virgin Islands, British",
+            "fullName": "Британские Виргинские острова"
+        },
+        {
+            "id": 243,
+            "code": "VIR",
+            "code1": "VI",
+            "name": "Виргинские острова, США",
+            "name2": "Virgin Islands, U.S.",
+            "fullName": "Виргинские острова Соединенных Штатов"
+        },
+        {
+            "id": 244,
+            "code": "VNM",
+            "code1": "VN",
+            "name": "Вьетнам",
+            "name2": "Vietnam",
+            "fullName": "Социалистическая Республика Вьетнам"
+        },
+        {
+            "id": 245,
+            "code": "VUT",
+            "code1": "VU",
+            "name": "Вануату",
+            "name2": "Vanuatu",
+            "fullName": "Республика Вануату"
+        },
+        {
+            "id": 246,
+            "code": "WLF",
+            "code1": "WF",
+            "name": "Уоллис и Футуна",
+            "name2": "Wallis and Futuna",
+            "fullName": ""
+        },
+        {
+            "id": 247,
+            "code": "WSM",
+            "code1": "WS",
+            "name": "Самоа",
+            "name2": "Samoa",
+            "fullName": "Независимое Государство Самоа"
+        },
+        {
+            "id": 248,
+            "code": "YEM",
+            "code1": "YE",
+            "name": "Йемен",
+            "name2": "Yemen",
+            "fullName": "Йеменская Республика"
+        },
+        {
+            "id": 249,
+            "code": "ZAF",
+            "code1": "ZA",
+            "name": "Южная Африка",
+            "name2": "South Africa",
+            "fullName": "Южно-Африканская Республика"
+        },
+        {
+            "id": 250,
+            "code": "ZMB",
+            "code1": "ZM",
+            "name": "Замбия",
+            "name2": "Zambia",
+            "fullName": "Республика Замбия"
+        },
+        {
+            "id": 251,
+            "code": "ZWE",
+            "code1": "ZW",
+            "name": "Зимбабве",
+            "name2": "Zimbabwe",
+            "fullName": "Республика Зимбабве"
+        }
+    ],
+    "сitizenship": null
+}

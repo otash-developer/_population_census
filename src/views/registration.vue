@@ -44,21 +44,22 @@
         </div>
         <div class="mb-4">
             <label for="input2" class="block text-gray-700 text-sm font-bold mb-2">Насаб:</label>
-            <input type="text" id="input2" name="input2" placeholder="Насимов" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline rounded-2xl">
+            <input type="text" id="input2" name="input2" placeholder="Насимов" class="shadow appearance-none border  w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline rounded-2xl">
             <span id="input2Error" class="text-red-500 hidden">Лутфан ин майдонро пур кунед.</span>
         </div>
         <div class="mb-4">
             <label for="input3" class="block text-gray-700 text-sm font-bold mb-2">Номи падар:</label>
-            <input type="text" id="input3" name="input3" placeholder="Насимович" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline rounded-2xl">
+            <input type="text" id="input3" name="input3" placeholder="Насимович" class="shadow appearance-none border w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline rounded-2xl">
             <span id="input3Error" class="text-red-500 hidden">Лутфан ин майдонро пур кунед.</span>
         </div>
         <div class="mb-6">
             <label for="input4" class="block text-gray-700 text-sm font-bold mb-2">Номери тел:</label>
-            <input type="text" id="input4" name="input4" placeholder="992980000000" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline rounded-2xl">
+            <input type="text" id="input4" name="input4" placeholder="992980000000" class="shadow appearance-none border  w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline rounded-2xl">
             <span id="input4Error" class="text-red-500 hidden">Лутфан ин майдонро пур кунед.</span>
         </div>
         <div class="flex items-center justify-center">
-            <button type="submit" class="bg-blue-500 text-white hover:bg-blue-700 hover:text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline rounded-2xl">Фиристодан</button>
+            <button type="submit" class="bg-blue-500 text-white hover:bg-blue-700 hover:text-white font-bold py-2 px-4  focus:outline-none focus:shadow-outline rounded-2xl">Фиристодан</button>
         </div>
     </form>
 </template>
+
